@@ -1,0 +1,11 @@
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\bin\Debug\net9.0\task2Sygeon.Core.deps.json
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\bin\Debug\net9.0\task2Sygeon.Core.dll
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\bin\Debug\net9.0\task2Sygeon.Core.pdb
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\obj\Debug\net9.0\task2Sygeon.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\obj\Debug\net9.0\task2Sygeon.Core.AssemblyInfoInputs.cache
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\obj\Debug\net9.0\task2Sygeon.Core.AssemblyInfo.cs
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\obj\Debug\net9.0\task2Sygeon.Core.csproj.CoreCompileInputs.cache
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\obj\Debug\net9.0\task2Sygeon.Core.dll
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\obj\Debug\net9.0\refint\task2Sygeon.Core.dll
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\obj\Debug\net9.0\task2Sygeon.Core.pdb
+D:\CODE\Sygeon zadania\task2\task2Sygeon.Core\obj\Debug\net9.0\ref\task2Sygeon.Core.dll

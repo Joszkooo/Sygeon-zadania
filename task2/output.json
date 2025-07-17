@@ -1,0 +1,37 @@
+﻿[
+  {
+    "TIMESTAMP": "2023-04-11 15:00:00 \u002B02:00",
+    "FLOUR_KG": 1.2,
+    "GROAT_KG": 0.11,
+    "MILK_L": 2.9,
+    "EGG_PCS": 32
+  },
+  {
+    "TIMESTAMP": "2023-04-11 16:00:00 \u002B02:00",
+    "FLOUR_KG": 1.9,
+    "GROAT_KG": 0.05,
+    "MILK_L": 2.65,
+    "EGG_PCS": 79
+  },
+  {
+    "TIMESTAMP": "2023-04-11 17:00:00 \u002B02:00",
+    "FLOUR_KG": 1,
+    "GROAT_KG": 0.16,
+    "MILK_L": 2.3,
+    "EGG_PCS": 46
+  },
+  {
+    "TIMESTAMP": "2023-04-12 15:00:00 \u002B02:00",
+    "FLOUR_KG": 3.1,
+    "GROAT_KG": 0.16,
+    "MILK_L": 4.85,
+    "EGG_PCS": 58
+  },
+  {
+    "TIMESTAMP": "2023-04-12 17:00:00 \u002B02:00",
+    "FLOUR_KG": 7.3,
+    "GROAT_KG": 0.34,
+    "MILK_L": 12,
+    "EGG_PCS": 450
+  }
+]

@@ -1,0 +1,11 @@
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\obj\Debug\net9.0\HRIntervals.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\obj\Debug\net9.0\HRIntervals.Core.AssemblyInfoInputs.cache
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\obj\Debug\net9.0\HRIntervals.Core.AssemblyInfo.cs
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\obj\Debug\net9.0\HRIntervals.Core.csproj.CoreCompileInputs.cache
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\bin\Debug\net9.0\HRIntervals.Core.deps.json
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\bin\Debug\net9.0\HRIntervals.Core.dll
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\bin\Debug\net9.0\HRIntervals.Core.pdb
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\obj\Debug\net9.0\HRIntervals.Core.dll
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\obj\Debug\net9.0\refint\HRIntervals.Core.dll
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\obj\Debug\net9.0\HRIntervals.Core.pdb
+D:\CODE\Sygeon zadania\task3\HRIntervals.Core\obj\Debug\net9.0\ref\HRIntervals.Core.dll

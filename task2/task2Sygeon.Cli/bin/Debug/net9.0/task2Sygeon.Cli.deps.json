@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "task2Sygeon.Cli/1.0.0": {
+        "dependencies": {
+          "task2Sygeon.Core": "1.0.0"
+        },
+        "runtime": {
+          "task2Sygeon.Cli.dll": {}
+        }
+      },
+      "task2Sygeon.Core/1.0.0": {
+        "runtime": {
+          "task2Sygeon.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task2Sygeon.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "task2Sygeon.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

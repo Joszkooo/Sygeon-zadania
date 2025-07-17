@@ -1,0 +1,14 @@
+1. Reads a JSON array of ingredient rows.
+2. Converts each timestamp (with its offset, e.g., `+09:00`) to **Europe/Warsaw** local time.
+3. Rounds **down to the start of the hour** (minute/second = 00).
+4. Groups rows by that hour.
+5. Sums the amounts.
+6. Converts units:
+   - FLOUR: dkg → kg (divide by 100)
+   - GROAT: g   → kg (divide by 1000)
+   - MILK:  ml  → L  (divide by 1000)
+   - EGG:   pieces (unchanged)
+7. Rounds to **2 decimal places** (AwayFromZero).
+8. Writes aggregated JSON.
+
+dotnet run --project .\task2Sygeon.Cli\ -- .\data.json output.json
